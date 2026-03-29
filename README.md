@@ -38,13 +38,7 @@ Test Accuracy	99.09%
 AFib Recall	98.95%
 AFib Precision	96.31%
 ROC-AUC	High (see ROC curve)
-📂 Project Structure
-├── main.py / notebook.ipynb
-├── afib_cnn_bilstm_final.h5
-├── confusion_matrix.png
-├── roc_curve.png
-├── training_history.png
-├── README.md
+
 
 🛠️ Tech Stack
 
