@@ -34,10 +34,15 @@ Fully connected layers for binary classification (Normal vs AFib)
 
 🏆 Results
 Metric	Value
+---
 Test Accuracy	99.09%
+---
 AFib Recall	98.95%
+---
 AFib Precision	96.31%
+---
 ROC-AUC	High (see ROC curve)
+---
 
 
 🛠️ Tech Stack
